@@ -1,0 +1,26 @@
+87a1019 HEAD@{0}: merge develop: Fast-forward
+deba302 HEAD@{1}: checkout: moving from develop to master
+87a1019 HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+6a46de0 HEAD@{3}: checkout: moving from styles to develop
+d3c2063 HEAD@{4}: checkout: moving from develop to styles
+6a46de0 HEAD@{5}: commit (merge): try2
+79c8338 HEAD@{6}: checkout: moving from styles to develop
+d3c2063 HEAD@{7}: checkout: moving from images to styles
+104b136 HEAD@{8}: checkout: moving from master to images
+deba302 HEAD@{9}: checkout: moving from develop to master
+79c8338 HEAD@{10}: commit: try resolve conflict
+9dc5526 HEAD@{11}: checkout: moving from styles to develop
+d3c2063 HEAD@{12}: commit: added styles
+9dc5526 HEAD@{13}: checkout: moving from develop to styles
+9dc5526 HEAD@{14}: checkout: moving from images to develop
+104b136 HEAD@{15}: commit: changed index.html
+260a5da HEAD@{16}: commit: added some images
+9dc5526 HEAD@{17}: checkout: moving from develop to images
+9dc5526 HEAD@{18}: commit: created index.html
+deba302 HEAD@{19}: checkout: moving from master to develop
+deba302 HEAD@{20}: commit: added readme
+e34200a HEAD@{21}: checkout: moving from images to master
+e34200a HEAD@{22}: checkout: moving from develop to images
+e34200a HEAD@{23}: checkout: moving from master to develop
+e34200a HEAD@{24}: commit: created readme
+3dca079 HEAD@{25}: commit (initial): test commit
