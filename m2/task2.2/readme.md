@@ -38,7 +38,7 @@
 ##### 13.
     I have explored the possibilities of creating my own domain and domain name for my site 
 ![Domain](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/13_1.PNG)
-![Domain2](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/13_2.PNG)
+![Domain2](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/13_2.png)
 ##### 14.
     I have created a cluster
 ![Cluster](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/14.PNG)
