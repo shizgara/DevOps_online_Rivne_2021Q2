@@ -1,6 +1,6 @@
 # Task 2.2
 ##### 1. 
-    I readed the terms of Using the AWS Free Tier and the ability to control their own costs
+    I readed the terms of Using the AWS Free Tier and the ability to control my own costs
 ##### 2. 
     I have registered with AWS
 ##### 4. 
@@ -38,10 +38,10 @@
 ##### 13.
     I have explored the possibilities of creating my own domain and domain name for my site 
 ![Domain](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/13_1.PNG)
-![Domain](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/13_2.PNG)
+![Domain2](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/13_2.PNG)
 ##### 14.
     I have created a cluster
-![Cluster](hhttps://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/14.PNG)
+![Cluster](https://github.com/shizgara/DevOps_online_Rivne_2021Q2/blob/master/m2/task2.2/images/14.PNG)
 ##### 15.
     I have created a static website on Amazon S3
 [Here is my site](http://task2.2.15.s3-website.eu-central-1.amazonaws.com)
